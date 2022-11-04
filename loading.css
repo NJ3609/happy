@@ -28,6 +28,7 @@
 .loading:not(:required) {
   /* hide "loading..." text */
   font: 0/0 a;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: transparent;
   text-shadow: none;
   background-color: transparent;
